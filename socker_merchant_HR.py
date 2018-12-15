@@ -1,4 +1,12 @@
 #!/bin/python3
+#answers this question prompt: https://www.hackerrank.com/challenges/sock-merchant/problem
+
+"""
+determines number of pairs of socks (socks have been embeded into a list of numbers)
+
+INPUT: length of list of numbers, list of numbers
+OUPUT: count of pairs
+"""
 
 import math
 import os
